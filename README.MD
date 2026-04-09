@@ -19,6 +19,11 @@
 
 
 ---
+<div align="center">
+  <img src="spartan6.png" alt="FPGA Development board">
+</div>
+
+---
 
 ## What is an FPGA?
 
